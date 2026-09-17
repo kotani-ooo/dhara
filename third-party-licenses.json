@@ -1,0 +1,56 @@
+[
+  {
+    "name": "react",
+    "version": "19.2.0",
+    "usage": "runtime",
+    "source": "https://github.com/facebook/react",
+    "license": "MIT",
+    "licenseFile": "LICENSE",
+    "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+  },
+  {
+    "name": "react-dom",
+    "version": "19.2.0",
+    "usage": "runtime",
+    "source": "https://github.com/facebook/react",
+    "license": "MIT",
+    "licenseFile": "LICENSE",
+    "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+  },
+  {
+    "name": "scheduler",
+    "version": "0.27.0",
+    "usage": "runtime",
+    "source": "https://github.com/facebook/react",
+    "license": "MIT",
+    "licenseFile": "LICENSE",
+    "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93"
+  },
+  {
+    "name": "@phosphor-icons/react",
+    "version": "2.1.10",
+    "usage": "runtime",
+    "source": "https://github.com/phosphor-icons/react",
+    "license": "MIT",
+    "licenseFile": "LICENSE",
+    "sha256": "6918b72504641180600cbbd4a86b0dfa9dfccf788775694325b71b9a029f6eb4"
+  },
+  {
+    "name": "vite",
+    "version": "6.4.2",
+    "usage": "build tool (including the modulepreload helper)",
+    "source": "https://github.com/vitejs/vite",
+    "license": "MIT",
+    "licenseFile": "LICENSE.md",
+    "sha256": "c6bfec08b0e78a198c5ec0c579e699d2843fd1bf81243f648620731d03f43593"
+  },
+  {
+    "name": "@vitejs/plugin-react",
+    "version": "5.0.4",
+    "usage": "build tool",
+    "source": "https://github.com/vitejs/vite-plugin-react",
+    "license": "MIT",
+    "licenseFile": "LICENSE",
+    "sha256": "29b68325fe026047d13e187b44c33b2acacf7dc647dec4583702e59f235e13b5"
+  }
+]

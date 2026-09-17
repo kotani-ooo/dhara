@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Dependencies, package cache, and generated output
+node_modules/
+.pnpm-store/
+dist/
+package-lock.json
+
+# Local environment
+.env
+.env.*

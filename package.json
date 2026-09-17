@@ -1,0 +1,21 @@
+{
+  "name": "site",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "sync:content": "node scripts/sync-app-localizations.mjs",
+    "build": "vite build && node scripts/prepare-pages-routes.mjs",
+    "preview": "vite preview",
+    "test:sites": "node --test tests/pages-routes.test.mjs tests/third-party-notices.test.mjs"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "5.0.4",
+    "@phosphor-icons/react": "^2.1.10",
+    "vite": "6.4.2",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {}
+}
